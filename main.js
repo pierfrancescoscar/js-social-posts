@@ -5,51 +5,51 @@
 const socialPost = [
 
     {
-        authorName: 'Pierfrancesco Scarinci',
-        profilePic: 'https://picsum.photos/seed/picsum/200/300',
-        date: '2 Gennaio 1995',
-        postTxt: 'Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum',
-        postPic: 'https://picsum.photos/seed/picsum/200/300',
+        authorName: 'Red Hot Chili Peppers',
+        profilePic: 'https://static.posters.cz/image/750/poster/red-hot-chili-peppers-logo-i4622.jpg',
+        date: '1983 - today',
+        postTxt: '“Destruction leads to a very rough road, but it also breeds creation.”',
+        postPic: 'https://dynamicmedia.livenationinternational.com/Media/m/n/i/4dbe418e-e9e1-4fee-bf4b-28abbe2ca452.jpg?auto=webp&width=1507.2',
         likesNum: 95,
 
     },
 
     {
-        authorName: 'Pietro Scaringi',
-        profilePic: 'https://picsum.photos/seed/picsum/200/300',
-        date: '2 Gennaio 1995',
-        postTxt: 'Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum',
-        postPic: 'https://picsum.photos/seed/picsum/200/300',
+        authorName: 'Arctic Monkeys',
+        profilePic: 'https://seeklogo.com/images/A/arctic-monkeys-logo-9E45743690-seeklogo.com.png',
+        date: '2002 - today',
+        postTxt: '“Great escape lost track of time and space/ She’s a silver lining climbing on my desire”',
+        postPic: 'https://www.ondarock.it/images/monografie/arcticmonkeys_1_1378458269.jpg',
         likesNum: 105,
 
     },
 
     {
-        authorName: 'Pietrofranco Scarci',
-        profilePic: 'https://picsum.photos/seed/picsum/200/300',
-        date: '2 Gennaio 1995',
-        postTxt: 'Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum',
-        postPic: 'https://picsum.photos/seed/picsum/200/300',
+        authorName: 'Oasis',
+        profilePic: 'https://m.media-amazon.com/images/I/813HkSh1HnL._AC_SX425_.jpg',
+        date: '1991 - 2009',
+        postTxt: 'I need to be myself. I cant be no one else. Im feeling supersonic. Give me gin & tonic.',
+        postPic: 'https://www.ondarock.it/images/monografie/oasis_1349113670.jpg',
         likesNum: 100,
 
     },
 
     {
-        authorName: 'Piero Scarnici',
-        profilePic: 'https://picsum.photos/seed/picsum/200/300',
-        date: '2 Gennaio 1995',
-        postTxt: 'Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum',
-        postPic: 'https://picsum.photos/seed/picsum/200/300',
+        authorName: 'The Killers',
+        profilePic: 'https://www.impericon.com/780x240x85/media/impericon/header/merchandise/the_killers/20190227_the_killers_mobile@2x.jpg',
+        date: '2001 - today',
+        postTxt: '"Don’t you wanna come with me? / Don’t you wanna feel my bones / On your bones?"',
+        postPic: 'https://i0.wp.com/notiziarioestero.com/wp-content/uploads/2021/09/The-Killers-dal-Nevada-con-furore.jpg?fit=2000%2C1268&ssl=1',
         likesNum: 100,
 
     },
 
     {
-        authorName: 'Pietro Scarnigi',
-        profilePic: 'https://picsum.photos/seed/picsum/200/300',
-        date: '2 Gennaio 1995',
-        postTxt: 'Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum',
-        postPic: 'https://picsum.photos/seed/picsum/200/300',
+        authorName: 'Bob Dylan',
+        profilePic: 'https://logodix.com/logo/764035.jpg',
+        date: '1959 - today',
+        postTxt: 'Behind every beautiful thing, there is some kind of pain.',
+        postPic: 'https://style.corriere.it/wp-content/uploads/2021/05/bob-dylan-80-anni.jpg',
         likesNum: 50,
 
     },
